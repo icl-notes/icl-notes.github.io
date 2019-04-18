@@ -19,7 +19,7 @@ Students are encouraged to add other notes.
 You will need
   * A [GitHub account](https://github.com/join)
   * An [Overleaf account](https://www.overleaf.com/register)
-  * The accounts to be [linked](#Link-my-GitHub-and-Overleaf-accounts?)
+  * The accounts to be [linked](#link-my-github-and-overleaf-accounts)
 
   1. Go to the [icl-notes repository on GitHub](https://github.com/icl-notes) for the notes you want to edit.
   1. [Fork the repository](https://help.github.com/en/articles/fork-a-repo#fork-an-example-repository).
@@ -42,7 +42,7 @@ You're done! Someone from the project can now review your changes, and if they'r
 
 #### LaTeX notes
 
-Create a repository for your notes. If your notes are on Overleaf [(and you have a linked GitHub account)](#Link-my-GitHub-and-Overleaf-accounts?) then you can do this directly from your notes
+Create a repository for your notes. If your notes are on Overleaf [(and you have a linked GitHub account)](#link-my-github-and-overleaf-accounts) then you can do this directly from your notes
   1. Open the Overleaf menu in the notes, and click on "GitHub" under "Sync".
   1. Follow the steps to create your repository.
 
