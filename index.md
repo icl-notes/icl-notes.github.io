@@ -24,6 +24,7 @@ You will need
   1. Go to the [icl-notes repository on GitHub](https://github.com/icl-notes) for the notes you want to edit.
   1. [Fork the repository](https://help.github.com/en/articles/fork-a-repo#fork-an-example-repository).
   1. Import the repository into Overleaf.
+
     1. Go to your [projects page](https://www.overleaf.com/project).
     1. Click "New Project".
     1. From the drop-down menu, click "Import from GitHub".
