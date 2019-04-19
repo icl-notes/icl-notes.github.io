@@ -43,7 +43,7 @@ You're done! Someone from the project can now review your changes, and if they'r
 
 #### LaTeX notes
 
-Create a repository for your notes. If your notes are on Overleaf ([and you have a linked GitHub account](#link-my-github-and-overleaf-accounts))then you can do this directly from your notes
+Create a repository for your notes. If your notes are on Overleaf ([and you have a linked GitHub account](#link-my-github-and-overleaf-accounts)) then you can do this directly from your notes
   1. Open the Overleaf menu in the notes, and click on "GitHub" under "Sync".
   1. Follow the steps to create your repository.
 
