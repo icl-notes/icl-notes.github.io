@@ -25,8 +25,8 @@ You will need
   1. [Fork the repository](https://help.github.com/en/articles/fork-a-repo#fork-an-example-repository).
   1. Import the repository into Overleaf:
       1. Go to your [projects page](https://www.overleaf.com/project).
-      2. Click "New Project".
-      3. From the drop-down menu, click "Import from GitHub".
+      1. Click "New Project".
+      1. From the drop-down menu, click "Import from GitHub".
 
 At this point, you now have a full personal copy of the notes. Edit them in Overleaf as much as you want - all the changes will only affect you.
 
